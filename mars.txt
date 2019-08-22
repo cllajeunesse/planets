@@ -5,3 +5,6 @@ Maybe we should use Venus instead.
 Blooplieiellelelrr.
 This line was added to Wolfman's copy.
 Why have we not considered Pluto?
+We added a different line in the other copy.
+No to mars. I really don't want to be near the two moons.
+>>>>>>> 3b958463dfbb376dbb52c3896a9c6428c20eac53
